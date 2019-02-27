@@ -1,0 +1,4 @@
+﻿cd Documents/sadrak
+lcd obj\Release\Package
+mput *.xml
+mput *.cmd
