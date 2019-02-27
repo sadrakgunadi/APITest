@@ -1,4 +1,4 @@
 ﻿cd Documents/sadrak
-lcd TransferService\obj\Release\Package
+lcd TransferService/obj/Release/Package
 mput *.xml
 mput *.cmd
